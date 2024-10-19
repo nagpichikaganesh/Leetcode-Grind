@@ -8,10 +8,7 @@ public:
         }
 
         auto it = distinct_nums.rbegin();
-        for(int i = 0; i < 2; ++i){
-            ++it;
-        }
+        advance(it, 2);
         return *it;
-
     }
 };
