@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/nagpichikaganesh/Leetcode-Grind/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0268-missing-number](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HNVS-GANESH-PICHIKA/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/nagpichikaganesh/Leetcode-Grind/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/nagpichikaganesh/Leetcode-Grind/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
